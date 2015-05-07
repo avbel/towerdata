@@ -1,8 +1,8 @@
 # towerdata
 
-[![Build](https://travis-ci.org/avbel/powerdata.png)](https://travis-ci.org/avbel/powerdata)
+[![Build](https://travis-ci.org/avbel/towerdata.png)](https://travis-ci.org/avbel/towerdata)
 
-Node Client library for [PowerData](http://www.towerdata.com)
+Node Client library for [TowerData](http://www.towerdata.com)
 
 ## Install
 
