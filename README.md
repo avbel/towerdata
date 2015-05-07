@@ -9,7 +9,7 @@ Node Client library for [TowerData](http://www.towerdata.com)
 Run
 
 ```
-npm install powerdata
+npm install towerdata
 ```
 
 ## Usage
