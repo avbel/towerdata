@@ -1,0 +1,23 @@
+{
+  "name": "towerdata",
+  "version": "0.0.0",
+  "description": "node api for Towerdata",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha"
+  },
+  "keywords": [
+    "towerdata"
+  ],
+  "author": "avbel",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^1.2.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.3.13",
+    "mocha": "^2.2.4",
+    "nock": "^1.9.0",
+    "should": "^6.0.1"
+  }
+}
